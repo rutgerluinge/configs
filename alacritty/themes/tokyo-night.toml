@@ -1,0 +1,24 @@
+[colors.primary]
+background = "#2b1055"   # deep royal purple
+foreground = "#e9dffc"   # light lavender text
+
+[colors.normal]
+black   = "#1a082f"
+red     = "#ff6b9a"
+green   = "#9ece6a"
+yellow  = "#e0af68"
+blue    = "#7aa2f7"
+magenta = "#c779ff"
+cyan    = "#8be9fd"
+white   = "#d0c8f0"
+
+[colors.bright]
+black   = "#2b1055"
+red     = "#ff79c6"
+green   = "#a6e22e"
+yellow  = "#f1fa8c"
+blue    = "#bd93f9"
+magenta = "#ff92df"
+cyan    = "#8be9fd"
+white   = "#f8f8f2"
+

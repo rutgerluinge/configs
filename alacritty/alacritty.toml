@@ -1,0 +1,5 @@
+import = ["/home/rutger-luinge/.config/alacritty/themes/tokyo-night.toml"]
+
+[window]
+decorations = "none"
+
