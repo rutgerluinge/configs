@@ -1,5 +1,22 @@
-import = ["/home/rutger-luinge/.config/alacritty/themes/tokyo-night.toml"]
 
 [window]
 decorations = "none"
+padding = {x=3, y=3}
+
+[cursor]
+style = {shape = "Block", blinking = "On"}
+thickness = 0.15
+
+[colors.cursor]
+cursor = "0xffa500"   # orange
+text   = "0x000000"   # text color inside the cursor (for block cursor)
+
+[scrolling]
+history = 100000
+multiplier = 3
+
+[general]
+import = ["/home/rutger-luinge/.config/alacritty/themes/tokyo-night.toml"]
+
+
 
